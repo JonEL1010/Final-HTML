@@ -9,6 +9,7 @@ En inici el que he fet a sigut una breu explicació del que es la masia adjuntan
 <img src="1.png">
 
 En jugadors llegendaris he posat uns cuadres blans, on dins d'ells esta el nom del jugador amb una foto amb una breu descripció i una foto (tambe amb un borde) del jugador, que, una vegada li cliques a la foto et portara a una de les pagines que mes m'agraden de futbol, que es Transfermarket, es una web que te tota l'informacio dels jugadors, estadistiques, trofeus...
+
 <img src="2.png">
 <img src="4.png">
 
@@ -16,7 +17,10 @@ La ultima pagina es valors i fisosofia, on hi ha una petita descripcio dels valo
 
 <img src="3.png">
 
-La part superior de la web es blaugrana, y quan estas a una pagina la pestanya es posa de color grac, i si pases el ratoli per sobra de un altre tambe es posa groga, simulant la pilota que te el barça en el escut. I per ultim abaix del tot hi ha un fons gris fort amb el signe de copy right dient el seguent : "© 2025 Web educativa sobre La Masia - FC Barcelona", o he posat mes que res perque crec que li dona un cop molt profeesional a la meva web.
+La part superior de la web es blaugrana, y quan estas a una pagina la pestanya es posa de color grac, i si pases el ratoli per sobra de un altre tambe es posa groga, simulant la pilota que te el barça en el escut.
 
 <img src="5.png">
+
+ I per ultim abaix del tot hi ha un fons gris fort amb el signe de copy right dient el seguent : "© 2025 Web educativa sobre La Masia - FC Barcelona", o he posat mes que res perque crec que li dona un cop molt profeesional a la meva web.
+
 <img src="6.png">
